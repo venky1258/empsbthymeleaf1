@@ -4,7 +4,7 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
- 
+ //IT IS AN EMPLOYEE CLASS IN WHICH WE HAVE SETTER AND GETTERS
 @Entity
 public class Employee {
     @Id
